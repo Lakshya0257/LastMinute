@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "412919918176",
+    "project_id": "last-minute-57857",
+    "storage_bucket": "last-minute-57857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412919918176:android:68de6f1f3ec75e81a81d05",
+        "android_client_info": {
+          "package_name": "com.example.last_minute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412919918176-3b8sdlvj676qkno6udhl2vnuajp2ohhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.last_minute",
+            "certificate_hash": "17e2d7343d4f80ffed43fc85b7fbb3cb83b1185d"
+          }
+        },
+        {
+          "client_id": "412919918176-6ge43ccsue8o0ih3l0a6gbija39lre26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.last_minute",
+            "certificate_hash": "67687ea5b67cb1514c6665236195212402eb2f10"
+          }
+        },
+        {
+          "client_id": "412919918176-fpn2plsa4ee9lm1p1g2lgj1pj7bdmqou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.last_minute",
+            "certificate_hash": "604df2de15b1489bc6d4accbd22a11a0037734d0"
+          }
+        },
+        {
+          "client_id": "412919918176-vbbok524ll9alidejikmegdbqva2jmmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.last_minute",
+            "certificate_hash": "1e75f4689d8f6f34fcd9285a0687201147451f11"
+          }
+        },
+        {
+          "client_id": "412919918176-tgih1mb7il39armmpugidsrrkagubbiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-vV-C4zXmszu0OSoE1yNccTzyVH8o50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412919918176-tgih1mb7il39armmpugidsrrkagubbiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412919918176-3o6be378mq7ccbdjtqj3hb3t3erijd06.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lastMinute"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412919918176:android:9c3356d03a8cc58aa81d05",
+        "android_client_info": {
+          "package_name": "com.example.last_minute_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412919918176-tgih1mb7il39armmpugidsrrkagubbiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-vV-C4zXmszu0OSoE1yNccTzyVH8o50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412919918176-tgih1mb7il39armmpugidsrrkagubbiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412919918176-3o6be378mq7ccbdjtqj3hb3t3erijd06.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lastMinute"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412919918176:android:b271624d7164228da81d05",
+        "android_client_info": {
+          "package_name": "com.example.last_minute_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412919918176-k2m70k6l0cmp8lhd5v04i13bn9rsfjj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.last_minute_driver",
+            "certificate_hash": "17e2d7343d4f80ffed43fc85b7fbb3cb83b1185d"
+          }
+        },
+        {
+          "client_id": "412919918176-tgih1mb7il39armmpugidsrrkagubbiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-vV-C4zXmszu0OSoE1yNccTzyVH8o50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412919918176-tgih1mb7il39armmpugidsrrkagubbiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412919918176-3o6be378mq7ccbdjtqj3hb3t3erijd06.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lastMinute"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

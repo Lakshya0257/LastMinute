@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>412919918176-p90lhr9b2g02mgs8jo7upfegjm1se5ud.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.412919918176-p90lhr9b2g02mgs8jo7upfegjm1se5ud</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>412919918176-3b8sdlvj676qkno6udhl2vnuajp2ohhl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAudU6MID2cM_aAS7wMX7lTmBsQUGRkNs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>412919918176</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.lastMinuteAdminPanel</string>
+	<key>PROJECT_ID</key>
+	<string>last-minute-57857</string>
+	<key>STORAGE_BUCKET</key>
+	<string>last-minute-57857.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:412919918176:ios:062f082996fde5eaa81d05</string>
+</dict>
+</plist>
