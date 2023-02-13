@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412919918176",
+    "project_id": "last-minute-57857",
+    "storage_bucket": "last-minute-57857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412919918176:android:68de6f1f3ec75e81a81d05",
+        "android_client_info": {
+          "package_name": "com.example.last_minute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412919918176-tgih1mb7il39armmpugidsrrkagubbiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-vV-C4zXmszu0OSoE1yNccTzyVH8o50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412919918176-tgih1mb7il39armmpugidsrrkagubbiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
