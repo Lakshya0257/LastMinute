@@ -12,5 +12,5 @@ void main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
   prefs = await SharedPreferences.getInstance();
-  runApp(MyApp()); 
+  runApp(const MyApp());
 }
