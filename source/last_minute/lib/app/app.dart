@@ -26,10 +26,6 @@ class MyApp extends StatelessWidget {
       home: FutureBuilder(
         future: FirebaseFirestore.instance.collection('bookings').get(),
         builder: (context, snapshot) {
-          // Get.lazyPut(()=>HomepageController());
-          // Get.lazyPut(()=>AmbulanceDetailsController());
-          // Get.lazyPut(()=>LogInController());
-          // Get.lazyPut(()=>CreateProfileController());
           bool booked=false;
           if(snapshot.hasData){
             final bookings=snapshot.data!.docs;
