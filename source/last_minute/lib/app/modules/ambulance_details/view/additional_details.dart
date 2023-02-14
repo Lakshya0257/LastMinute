@@ -81,7 +81,7 @@ class AdditionalData extends GetView<AmbulanceDetailsController> {
                           homepageController.ambulanceBookedBool(false);
                         }
                         return 
-                        bookingAmbulance.isNotEmpty
+                        homepageController.driverDoc!=null && bookingAmbulance.isNotEmpty
                             ? Column(
                                 children: [
                                   Container(
