@@ -50,8 +50,9 @@ class PanelWidget extends GetView<HomepageController> {
             ),
             Button(
               on_pressed: () {
-                ambulanceController.onInformationUpdated(false);
                 controller.onAmbulanceBooked(true);
+                //ambulanceController.onInformationUpdated(false);
+                
               },
               text: 'BOOK AMBULANCE',
               radius: Dimensions.radius20 * 2,

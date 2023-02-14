@@ -63,7 +63,7 @@ class AmbulanceDetails extends GetView<AmbulanceDetailsController> {
                           
                         }
 
-                      return bookingAmbulance.isNotEmpty
+                      return homepageController.driverDoc!=null && bookingAmbulance.isNotEmpty
                           ? Column(
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
