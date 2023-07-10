@@ -52,9 +52,6 @@ class AppRoutes {
     //   page: () => MedicalReport(),
     //   binding: MedicalReportBinding(),
     // ),
-    // GetPage(
-    //   name: LoginAsPage.route,
-    //   page: () => LoginAsPage(),
-    // ), 
+
   ];
 }
